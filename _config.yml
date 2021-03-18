@@ -57,8 +57,8 @@ kramdown:
 
 comments:
 #disqus
-disqus: false
-disqus: ''
+#disqus: false
+#disqus: ''
 
 # Gitalk
 gitalk:
