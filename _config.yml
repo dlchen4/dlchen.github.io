@@ -85,10 +85,9 @@ service-worker: true
 
 # SNS settings
 RSS: false
-jianshu_username: 	jianshu_id 
 zhihu_username:     username
-facebook_username:  username
-github_username:    username
+facebook_username:  dlchen4
+github_username:    dlchen4
 # weibo_username:   username
 
 # Friends
