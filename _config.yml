@@ -1,18 +1,18 @@
 # Site settings | 网站设置
-title: RainbomSea
-SEOTitle: dlchen blog | dlchen
+title: 
+SEOTitle: DLCHEN BLOG | DLCHEN
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: daranc4@163.com
+description: "dlchen's blog"
+keyword: "dlchen, dlchen4, dlchen47"
+url: "http://dlchen4.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/dlchen4/dlchen4.github.io.git" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "Peaceful time, "
 sidebar-avatar: /img/head.jpg      # 头像
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-github_username: RainbomSea
+github_username: dlchen4
 
 
 
@@ -58,11 +58,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    # 是否开启Gitalk评论
-  clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
-  clientSecret: 2670daea0c10372dd0296c371edc5ee4e73db43f    #生成的clientSecret
-  repo: RainbomSea.github.io    #仓库名称
-  owner: RainbomSea    # github用户名
-  admin: RainbomSea
+  clientID: d966bf8dfc16b02fbb37                            #生成的clientID
+  clientSecret: f73b6991553a65918fa203f5b85ed290f48f06dd    #生成的clientSecret
+  repo: dlchen4.github.io    #仓库名称
+  owner: dlchen4    # github用户名
+  admin: dlchen4
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
@@ -83,12 +83,18 @@ featured-condition-size: 0              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
+# SNS settings
+RSS: false
+jianshu_username: 	jianshu_id 
+zhihu_username:     username
+facebook_username:  username
+github_username:    username
+# weibo_username:   username
 
 # Friends
 friends: [
     {
-        title: "GitHub·RainbomSea",
-        href: "http://RainbomSea.github.io"
+        title: "GitHub·dlchen4",
+        href: "http://dlchen4.github.io"
     }
 ]
