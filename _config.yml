@@ -48,7 +48,7 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-comments:
+#comments:
 #disqus
 #disqus: false
 #disqus: ''
