@@ -33,20 +33,15 @@
     <!-- Hux change font-awesome CDN to qiniu -->
     <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-    <!-- Baidu Tongji -->
-    {% if site.ba_track_id %}
+    <!-- dlchen4.com Baidu tongji analytics -->
     <script>
-        // dynamic User by Hux
-        var _baId = '{{ site.ba_track_id }}';
-
-        // Originial
-        var _hmt = _hmt || [];
-        (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?" + _baId;
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-        })();
+    var _hmt = _hmt || [];
+    (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?392d2fa7d01ef74da97b768b1e7c4a98";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+    })();
     </script>
-    {% endif %}
+
 </head>
