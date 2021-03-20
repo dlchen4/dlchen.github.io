@@ -12,7 +12,7 @@ github_repo: "https://github.com/dlchen4/dlchen4.github.io.git" #code repository
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Peaceful time is worth the wait"
+sidebar-about-description: "Hello world, that's all."
 sidebar-avatar: /img/head.jpg      # 头像
 
 
